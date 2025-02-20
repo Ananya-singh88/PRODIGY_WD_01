@@ -20,7 +20,7 @@ I made it responsive as well :]
 
 How to Run It 🚀
 Clone this repo:
-git clone https://ananya-singh88.github.io/PRODIGY_WD_01/
+👉 [Click Here](https://your-username.github.io/your-repo-name/) 
 Open NavMenu.html in any browser – and that’s it!
 
 
