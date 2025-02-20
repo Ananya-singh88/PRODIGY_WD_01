@@ -21,7 +21,7 @@ I made it responsive as well :]
 How to Run It 🚀
 Clone this repo:
 👉 [Click Here](https://ananya-singh88.github.io/PRODIGY_WD_01/) 
-Open NavMenu.html in any browser – and that’s it!
+Open Index.html in any browser – and that’s it!
 
 
 Made By 💡
