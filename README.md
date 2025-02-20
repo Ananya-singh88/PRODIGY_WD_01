@@ -25,4 +25,4 @@ Open NavMenu.html in any browser – and that’s it!
 
 
 Made By 💡
-👤 Ananya Singh (@Ananya)# PRODIGY_WD_01
+👤 Ananya Singh (@Ananya)
