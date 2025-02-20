@@ -17,7 +17,11 @@ When you scroll down, the background or text color changes.
 When you hover over menu items, they get highlighted.
 Smooth transitions make it look nice and polished!
 I made it responsive as well :]
+
 How to Run It 🚀
+Clone this repo:
+git clone https://github.com/Ananya/PRODIGY_WD_01
+Open NavMenu.html in any browser – and that’s it!
 
 
 Made By 💡
